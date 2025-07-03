@@ -1,4 +1,4 @@
-# 🔑 Keylogger Script
+# 🔑 Keylogger python Script
 
 This Python script is a simple keylogger designed to run on **Windows**. It captures all keystrokes typed by the user and saves the log to a file located on the **same flash drive** where the script is executed.
 
