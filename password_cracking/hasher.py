@@ -1,3 +1,4 @@
+#hash
 #!/usr/bin/python
 
 import hashlib
